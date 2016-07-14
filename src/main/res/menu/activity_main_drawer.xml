@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/nav_ps"
+            android:icon="@drawable/police"
+            android:title="Police Station Info" />
+       <!-- <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/food"
+            android:title="Places to eat" />-->
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/house"
+            android:title="Affordable Rental Housing" />
+        <item
+            android:id="@+id/nav_wclinic"
+            android:icon="@mipmap/health"
+            android:title="Woman and Child Clinic" />
+
+        <item
+            android:id="@+id/nav_health"
+            android:icon="@mipmap/hospital"
+            android:title="Neighborhood Health Clinics" />
+        <item
+            android:id="@+id/nav_connect"
+            android:icon="@drawable/connect"
+            android:title="Connect Chicago Locations" />
+        <item
+            android:id="@+id/nav_community"
+            android:icon="@drawable/community"
+            android:title="Community Service Centers" />
+        <item
+            android:id="@+id/nav_work"
+            android:icon="@drawable/work"
+            android:title="Workforce Centers" />
+        <item
+            android:id="@+id/nav_traffic"
+            android:icon="@drawable/traffic"
+            android:title="Traffic Violations" />
+        <item
+            android:id="@+id/nav_crime"
+            android:icon="@drawable/crime"
+            android:title="Crime Information" />
+    </group>
+
+
+</menu>

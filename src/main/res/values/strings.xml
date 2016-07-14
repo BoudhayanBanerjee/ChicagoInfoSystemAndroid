@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chicago City Information</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="url_ps">https://data.cityofchicago.org/resource/9rg7-mz9y.json?$$app_token=</string>
+    <string name="url_food">https://data.cityofchicago.org/resource/cwig-ma7x.json?$$app_token=</string>
+    <string name="url_home">https://data.cityofchicago.org/resource/uahe-iimk.json?$$app_token=</string>
+    <string name="url_wclinic">https://data.cityofchicago.org/resource/cdzn-65xx.json?$$app_token=</string>
+    <string name="url_connect">https://data.cityofchicago.org/resource/qu9k-i56e.json?$$app_token=</string>
+    <string name="url_community">https://data.cityofchicago.org/resource/qhee-3acc.json?$$app_token=</string>
+    <string name="url_health">https://data.cityofchicago.org/resource/23z4-s99a.json?$$app_token=</string>
+    <string name="url_work">https://data.cityofchicago.org/resource/3msj-emar.json?$$app_token=</string>
+    <string name="url_traffic">https://data.cityofchicago.org/resource/3v4z-xnbf.json?$$app_token=</string>
+    <string name="url_crime">https://data.cityofchicago.org/resource/6zsd-86xi.json?$$app_token=</string>
+</resources>
